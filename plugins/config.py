@@ -42,11 +42,11 @@ class Config(object):
     
     PROCESS_MAX_TIMEOUT = 3600
     
-    DEF_WATER_MARK_FILE = "UploadLinkToFileBot"
+    DEF_WATER_MARK_FILE = "akleechbot"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://uplo:uplo@cluster0.fgu4b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     
-    SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
+    SESSION_NAME = os.environ.get("SESSION_NAME", "@akleechbot")
     
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002390475605"))
     
