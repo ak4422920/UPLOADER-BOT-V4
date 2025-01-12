@@ -46,7 +46,7 @@ class Config(object):
     
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://uplo:uplo@cluster0.fgu4b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     
-    SESSION_NAME = os.environ.get("SESSION_NAME", "@akleechbot")
+    SESSION_NAME = os.environ.get("SESSION_NAME", "akleechbot")
     
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002390475605"))
     
@@ -58,5 +58,5 @@ class Config(object):
     
     TG_MIN_FILE_SIZE = 2097152000
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "akleechbot")
                                   
