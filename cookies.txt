@@ -1,1 +1,14 @@
 # Add your cookies youtube 
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1736660641	GPS	1
+.youtube.com	TRUE	/	TRUE	0	YSC	ECM5_yFFMMY
+.youtube.com	TRUE	/	TRUE	1752210841	__Secure-ROLLOUT_TOKEN	CKCWl4S8_6HAzwEQ6pj-qrbvigMY6pj-qrbvigM%3D
+.youtube.com	TRUE	/	TRUE	1752210841	VISITOR_INFO1_LIVE	VO5y8dNTBr8
+.youtube.com	TRUE	/	TRUE	1752210841	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgbQ%3D%3D
+.youtube.com	TRUE	/	TRUE	1771218856	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
+.youtube.com	TRUE	/	FALSE	1736658858	ST-mvdfpw	csn=1Es0QhLO1JZGERmL&itct=CC8Q_FoYASITCLal1K6274oDFdH_OAYdaqElnjIGc2VhcmNoUgFomgEDEPQk
+.youtube.com	TRUE	/	FALSE	1736658859	ST-4sz0zp	csn=1Es0QhLO1JZGERmL&itct=CC4Q_FoYAiITCLal1K6274oDFdH_OAYdaqElnjIGc2VhcmNoUgFomgEDEPQk
+.youtube.com	TRUE	/	FALSE	1736658863	ST-69bqjw	csn=1Es0QhLO1JZGERmL&itct=CCsQ_FoYBSITCLal1K6274oDFdH_OAYdaqElnjIGc2VhcmNoUgFomgEDEPQk
