@@ -18,5 +18,5 @@ if __name__ == "__main__" :
     api_hash=Config.API_HASH,
     sleep_threshold=300,
     plugins=plugins)
-    print("🎊 I AM ALIVE 🎊  • Support @NT_BOTS_SUPPORT")
+    print("🎊 I AM ALIVE 🎊  • Support @AKMovieBotz")
     Client.run()
