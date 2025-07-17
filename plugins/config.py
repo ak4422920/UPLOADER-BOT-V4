@@ -33,14 +33,14 @@ class Config(object):
 
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://tg:tg@cluster0.fekvk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002247400551"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002208313355"))
     LOGGER = logging
     OWNER_ID = int(os.environ.get("OWNER_ID", "7251898668"))
     SESSION_NAME = "akmoviezhub_bot"
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002442422204")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001785093771")
 
     TG_MIN_FILE_SIZE = 2194304000
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "akmoviezhub_bot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "autoapprovalakbot")
     ADL_BOT_RQ = {}
 
     # Set False off else True
